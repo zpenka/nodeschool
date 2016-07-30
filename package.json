@@ -14,5 +14,8 @@
     "git"
   ],
   "author": "Zack Penka",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "learnyounode": "^3.5.3"
+  }
 }
