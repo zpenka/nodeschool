@@ -20,6 +20,7 @@
     "learnyounode": "^3.5.3",
     "scope-chains-closures": "^1.0.4",
     "stream-adventure": "^4.0.5",
+    "through2": "^2.0.1",
     "through2-map": "^2.0.0"
   }
 }
