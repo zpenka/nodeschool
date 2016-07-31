@@ -16,6 +16,7 @@
   "author": "Zack Penka",
   "license": "ISC",
   "dependencies": {
+    "bl": "^1.1.2",
     "learnyounode": "^3.5.3"
   }
 }
