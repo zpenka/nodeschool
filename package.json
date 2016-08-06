@@ -25,6 +25,7 @@
     "split": "^1.0.0",
     "stream-adventure": "^4.0.5",
     "stream-combiner": "^0.2.2",
+    "tar": "^2.2.1",
     "through2": "^2.0.1",
     "through2-map": "^2.0.0",
     "trumpet": "^1.7.2",
