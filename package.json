@@ -20,6 +20,7 @@
     "concat-stream": "^1.5.1",
     "duplexer2": "^0.1.4",
     "how-to-markdown": "^1.0.3",
+    "how-to-npm": "^2.0.0",
     "learnyounode": "^3.5.3",
     "request": "^2.74.0",
     "scope-chains-closures": "^1.0.4",
