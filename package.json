@@ -19,6 +19,7 @@
     "bl": "^1.1.2",
     "concat-stream": "^1.5.1",
     "duplexer2": "^0.1.4",
+    "functional-javascript-workshop": "^1.0.5",
     "how-to-markdown": "^1.0.3",
     "how-to-npm": "^2.0.0",
     "learnyounode": "^3.5.3",
